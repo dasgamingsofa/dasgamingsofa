@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -129,6 +134,11 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 2000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -158,6 +168,11 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -231,11 +246,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "mechanoidraid",
-		"price": 3500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Doom"
@@ -263,6 +273,16 @@
 	{
 		"abr": "levelskill",
 		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "trait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "removetrait",
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -316,5 +336,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 63
+	"total": 67
 }
