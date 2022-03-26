@@ -1606,7 +1606,7 @@
       "abr": "menschenfleisch",
       "category": "Fleisch",
       "defname": "Meat_Human",
-      "price": 1
+      "price": 25
     },
     {
       "abr": "menschenhaut",
@@ -2050,7 +2050,7 @@
       "abr": "ratte",
       "category": "Tiere",
       "defname": "Rat",
-      "price": 58
+      "price": 158
     },
     {
       "abr": "rattenfleisch",
@@ -4240,7 +4240,7 @@
       "abr": "armorfossil",
       "category": "Fossils",
       "defname": "PW_ArmorFossil",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "aron",
@@ -4564,7 +4564,7 @@
       "abr": "clawfossil",
       "category": "Fossils",
       "defname": "PW_ClawFossil",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "claydol",
@@ -4738,7 +4738,7 @@
       "abr": "domefossil",
       "category": "Fossils",
       "defname": "PW_DomeFossil",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "donphan",
@@ -4942,7 +4942,7 @@
       "abr": "firestone",
       "category": "Stones",
       "defname": "PW_FireStone",
-      "price": 250
+      "price": 1000
     },
     {
       "abr": "flaaffy",
@@ -5110,7 +5110,7 @@
       "abr": "ballpit",
       "category": "Möbel",
       "defname": "BuildingRecBallpit",
-      "price": 750
+      "price": 1250
     },
     {
       "abr": "bed",
@@ -5962,7 +5962,7 @@
       "abr": "helixfossil",
       "category": "Fossils",
       "defname": "PW_HelixFossil",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "heracross",
@@ -6076,7 +6076,7 @@
       "abr": "hyperpotion",
       "category": "Healing",
       "defname": "PW_HyperPotion",
-      "price": 33
+      "price": 120
     },
     {
       "abr": "hypno",
@@ -6088,7 +6088,7 @@
       "abr": "icestone",
       "category": "Stones",
       "defname": "PW_IceStone",
-      "price": 250
+      "price": 1000
     },
     {
       "abr": "igglybuff",
@@ -6442,7 +6442,7 @@
       "abr": "leafstone",
       "category": "Stones",
       "defname": "PW_LeafStone",
-      "price": 250
+      "price": 1000
     },
     {
       "abr": "leafeon",
@@ -6826,7 +6826,7 @@
       "abr": "maxpotion",
       "category": "Healing",
       "defname": "PW_MaxPotion",
-      "price": 67
+      "price": 200
     },
     {
       "abr": "medicalanimalbed",
@@ -6892,13 +6892,13 @@
       "abr": "mew",
       "category": "Tiere",
       "defname": "PW_Mew",
-      "price": 12500
+      "price": 17500
     },
     {
       "abr": "mewtwo",
       "category": "Tiere",
       "defname": "PW_Mewtwo",
-      "price": 10000
+      "price": 15000
     },
     {
       "abr": "mightyena",
@@ -6982,7 +6982,7 @@
       "abr": "moonstone",
       "category": "Stones",
       "defname": "PW_MoonStone",
-      "price": 250
+      "price": 750
     },
     {
       "abr": "mothim",
@@ -8788,7 +8788,7 @@
       "abr": "potion",
       "category": "Healing",
       "defname": "PW_Potion",
-      "price": 17
+      "price": 50
     },
     {
       "abr": "powerarm",
@@ -8944,7 +8944,7 @@
       "abr": "rarecandy",
       "category": "Healing",
       "defname": "PW_RareCandy",
-      "price": 83
+      "price": 100
     },
     {
       "abr": "raticate",
@@ -9052,7 +9052,7 @@
       "abr": "rootfossil",
       "category": "Fossils",
       "defname": "PW_RootFossil",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "roselia",
@@ -9238,7 +9238,7 @@
       "abr": "shinystone",
       "category": "Stones",
       "defname": "PW_ShinyStone",
-      "price": 250
+      "price": 1500
     },
     {
       "abr": "shroomish",
@@ -9316,7 +9316,7 @@
       "abr": "skullfossil",
       "category": "Fossils",
       "defname": "PW_SkullFossil",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "skuntank",
@@ -9718,7 +9718,7 @@
       "abr": "thunderstone",
       "category": "Stones",
       "defname": "PW_ThunderStone",
-      "price": 250
+      "price": 1000
     },
     {
       "abr": "tierhirn-stimulator",
@@ -9868,7 +9868,7 @@
       "abr": "upgrade",
       "category": "Other",
       "defname": "PW_Upgrade",
-      "price": 683
+      "price": 1500
     },
     {
       "abr": "ursaring",
@@ -10114,7 +10114,7 @@
       "abr": "wallsunlight",
       "category": "Möbel",
       "defname": "Lighting_MURWallSunLight",
-      "price": 16
+      "price": 32
     },
     {
       "abr": "walrein",
@@ -10150,7 +10150,7 @@
       "abr": "waterstone",
       "category": "Stones",
       "defname": "PW_WaterStone",
-      "price": 250
+      "price": 1000
     },
     {
       "abr": "weavile",
