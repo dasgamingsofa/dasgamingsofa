@@ -107,12 +107,12 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 420,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "wandererjoins",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -172,7 +172,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
