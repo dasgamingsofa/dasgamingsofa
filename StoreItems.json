@@ -106,7 +106,7 @@
       "abr": "antimateriegefechtskopf",
       "category": "Mörsergranaten",
       "defname": "Shell_AntigrainWarhead",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "apples",
@@ -376,7 +376,7 @@
       "abr": "brandgranate",
       "category": "Mörsergranaten",
       "defname": "Shell_Incendiary",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "brauerei",
@@ -496,7 +496,7 @@
       "abr": "deserttortoise",
       "category": "Tiere",
       "defname": "AEXP_DesertTortoise",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "deserttortoiseegg(fert.)",
@@ -664,13 +664,13 @@
       "abr": "emp-granate",
       "category": "Mörsergranaten",
       "defname": "Shell_EMP",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "emu",
       "category": "Tiere",
       "defname": "Emu",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "emuei(befr.)",
@@ -1024,7 +1024,7 @@
       "abr": "he-granate",
       "category": "Mörsergranaten",
       "defname": "Shell_HighExplosive",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "heiler-mech-serum",
@@ -1156,7 +1156,7 @@
       "abr": "husky",
       "category": "Tiere",
       "defname": "Husky",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "huskyfleisch",
@@ -1168,7 +1168,7 @@
       "abr": "hyena",
       "category": "Tiere",
       "defname": "AEXP_Hyena",
-      "price": -10
+      "price": 308
     },
     {
       "abr": "hyenafleisch",
@@ -1444,7 +1444,7 @@
       "abr": "leguan",
       "category": "Tiere",
       "defname": "Iguana",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "leguanei(befr.)",
@@ -1498,7 +1498,7 @@
       "abr": "löschschaumgranate",
       "category": "Mörsergranaten",
       "defname": "Shell_Firefoam",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "löschschaumwerfer",
@@ -2050,7 +2050,7 @@
       "abr": "ratte",
       "category": "Tiere",
       "defname": "Rat",
-      "price": 158
+      "price": 58
     },
     {
       "abr": "rattenfleisch",
@@ -2092,7 +2092,7 @@
       "abr": "rauchgranate",
       "category": "Mörsergranaten",
       "defname": "Shell_Smoke",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "rawfish",
@@ -2176,7 +2176,7 @@
       "abr": "rotfuchs",
       "category": "Tiere",
       "defname": "Fox_Red",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "rotwild",
@@ -2800,7 +2800,7 @@
       "abr": "warg",
       "category": "Tiere",
       "defname": "Warg",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "wargfleisch",
@@ -2920,7 +2920,7 @@
       "abr": "yorkshireterrier",
       "category": "Tiere",
       "defname": "YorkshireTerrier",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "zebra",
@@ -4135,6 +4135,1272 @@
       "price": 833
     },
     {
+      "abr": "advancedpowerclaw",
+      "category": "Ultratech",
+      "defname": "AdvancedPowerClaw",
+      "price": 2267
+    },
+    {
+      "abr": "arm",
+      "category": "Natürlich",
+      "defname": "Arm",
+      "price": 2167
+    },
+    {
+      "abr": "aufputschendesrippen-implantat",
+      "category": "Bionisch",
+      "defname": "AdrenalineRib",
+      "price": 917
+    },
+    {
+      "abr": "auge",
+      "category": "Natürlich",
+      "defname": "Eye",
+      "price": 2500
+    },
+    {
+      "abr": "augenklappe",
+      "category": "Einfache Teile",
+      "defname": "EyePatch",
+      "price": 65
+    },
+    {
+      "abr": "auxiliaryai(agricultural)",
+      "category": "Archotech",
+      "defname": "FarmerCore",
+      "price": 5833
+    },
+    {
+      "abr": "auxiliaryai(constructing)",
+      "category": "Archotech",
+      "defname": "ConstructorCore",
+      "price": 5833
+    },
+    {
+      "abr": "auxiliaryai(diplomatic)",
+      "category": "Archotech",
+      "defname": "DiplomatCore",
+      "price": 5833
+    },
+    {
+      "abr": "auxiliaryai(medical)",
+      "category": "Archotech",
+      "defname": "DoctorCore",
+      "price": 5833
+    },
+    {
+      "abr": "auxiliaryai(mining)",
+      "category": "Archotech",
+      "defname": "MinerCore",
+      "price": 5833
+    },
+    {
+      "abr": "ballpit",
+      "category": "Möbel",
+      "defname": "BuildingRecBallpit",
+      "price": 1250
+    },
+    {
+      "abr": "bed",
+      "category": "Möbel",
+      "defname": "RGK_bedSingle",
+      "price": 155
+    },
+    {
+      "abr": "bed2",
+      "category": "Möbel",
+      "defname": "RGK_bedSingleB",
+      "price": 155
+    },
+    {
+      "abr": "bedsideclock",
+      "category": "Möbel",
+      "defname": "ED_Clock",
+      "price": 4
+    },
+    {
+      "abr": "bein",
+      "category": "Natürlich",
+      "defname": "Leg",
+      "price": 2167
+    },
+    {
+      "abr": "bench",
+      "category": "Möbel",
+      "defname": "GL_Bench",
+      "price": 358
+    },
+    {
+      "abr": "betäubendesrippen-implantat",
+      "category": "Bionisch",
+      "defname": "DruggedRib",
+      "price": 800
+    },
+    {
+      "abr": "bin",
+      "category": "Möbel",
+      "defname": "ED_Bin",
+      "price": 4
+    },
+    {
+      "abr": "bionischehand",
+      "category": "Bionisch",
+      "defname": "BionicHand",
+      "price": 983
+    },
+    {
+      "abr": "bionischetierleber",
+      "category": "Tier-Prothesen",
+      "defname": "BionicAnimalLiver",
+      "price": 483
+    },
+    {
+      "abr": "bionischetierlunge",
+      "category": "Tier-Prothesen",
+      "defname": "BionicAnimalLung",
+      "price": 483
+    },
+    {
+      "abr": "bionischetierniere",
+      "category": "Tier-Prothesen",
+      "defname": "BionicAnimalKidney",
+      "price": 483
+    },
+    {
+      "abr": "bionischetierwirbelsäule",
+      "category": "Tier-Prothesen",
+      "defname": "SpineAnimalBionic",
+      "price": 1050
+    },
+    {
+      "abr": "bionischerfuß",
+      "category": "Bionisch",
+      "defname": "BionicFoot",
+      "price": 983
+    },
+    {
+      "abr": "bionischerkiefer",
+      "category": "Bionisch",
+      "defname": "BionicJaw",
+      "price": 908
+    },
+    {
+      "abr": "bionischertierarm",
+      "category": "Tier-Prothesen",
+      "defname": "BionicArmAnimal",
+      "price": 892
+    },
+    {
+      "abr": "bionischertierkiefer",
+      "category": "Tier-Prothesen",
+      "defname": "JawAnimalBionic",
+      "price": 867
+    },
+    {
+      "abr": "bionischertiermagen",
+      "category": "Tier-Prothesen",
+      "defname": "BionicAnimalStomach",
+      "price": 492
+    },
+    {
+      "abr": "bionischestierauge",
+      "category": "Tier-Prothesen",
+      "defname": "BionicEyeAnimal",
+      "price": 867
+    },
+    {
+      "abr": "bionischestierbein",
+      "category": "Tier-Prothesen",
+      "defname": "BionicLegAnimal",
+      "price": 892
+    },
+    {
+      "abr": "bionischestierherz",
+      "category": "Tier-Prothesen",
+      "defname": "BionicAnimalHeart",
+      "price": 667
+    },
+    {
+      "abr": "bionischestierohr",
+      "category": "Tier-Prothesen",
+      "defname": "EarAnimalBionic",
+      "price": 867
+    },
+    {
+      "abr": "blauelavalampe",
+      "category": "Möbel",
+      "defname": "LavalampB",
+      "price": 66
+    },
+    {
+      "abr": "bloodbag",
+      "category": "Medizin",
+      "defname": "IV_BloodBag",
+      "price": 2
+    },
+    {
+      "abr": "bloodstemleaf",
+      "category": "Pflanzlich",
+      "defname": "Bloodstem",
+      "price": 2
+    },
+    {
+      "abr": "bogenschießscheibe",
+      "category": "Entspannung",
+      "defname": "ArcheryTarget",
+      "price": 248
+    },
+    {
+      "abr": "bonfire",
+      "category": "Möbel",
+      "defname": "GL_Bonfire",
+      "price": 417
+    },
+    {
+      "abr": "bonsaipot",
+      "category": "Kunst",
+      "defname": "Erin_BonsaiPot",
+      "price": 299
+    },
+    {
+      "abr": "book",
+      "category": "Möbel",
+      "defname": "ED_Book",
+      "price": 3
+    },
+    {
+      "abr": "bookshelf",
+      "category": "Diverses",
+      "defname": "GL_Bookshelf",
+      "price": 908
+    },
+    {
+      "abr": "bowl",
+      "category": "Möbel",
+      "defname": "RGK_DogBowl",
+      "price": 104
+    },
+    {
+      "abr": "butchertable",
+      "category": "Produktion",
+      "defname": "GL_TableButcher",
+      "price": 279
+    },
+    {
+      "abr": "candles",
+      "category": "Möbel",
+      "defname": "ED_Candles",
+      "price": 20
+    },
+    {
+      "abr": "cattower",
+      "category": "Möbel",
+      "defname": "ED_CatTower",
+      "price": 134
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugA_Small",
+      "price": 304
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugB_Small",
+      "price": 304
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugC_Small",
+      "price": 304
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugA",
+      "price": 400
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugB",
+      "price": 400
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugC",
+      "price": 400
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugA_Large",
+      "price": 500
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugB_Large",
+      "price": 500
+    },
+    {
+      "abr": "celticrug",
+      "category": "Möbel",
+      "defname": "RugC_Large",
+      "price": 500
+    },
+    {
+      "abr": "celtictable(2x1)",
+      "category": "Möbel",
+      "defname": "RGK_TableE",
+      "price": 367
+    },
+    {
+      "abr": "celtictable(2x2)",
+      "category": "Möbel",
+      "defname": "RGK_TableB",
+      "price": 392
+    },
+    {
+      "abr": "celtictable(2x2)",
+      "category": "Möbel",
+      "defname": "RGK_TableD",
+      "price": 392
+    },
+    {
+      "abr": "celtictable(2x2)",
+      "category": "Möbel",
+      "defname": "RGK_TableG",
+      "price": 692
+    },
+    {
+      "abr": "celtictable(3x2)",
+      "category": "Möbel",
+      "defname": "RGK_TableF",
+      "price": 650
+    },
+    {
+      "abr": "celtictable(3x3)",
+      "category": "Möbel",
+      "defname": "RGK_TableH",
+      "price": 850
+    },
+    {
+      "abr": "chair",
+      "category": "Möbel",
+      "defname": "RGK_Chair",
+      "price": 180
+    },
+    {
+      "abr": "classydoublebed",
+      "category": "Möbel",
+      "defname": "GL_ClassyDoubleBed",
+      "price": 942
+    },
+    {
+      "abr": "coffee",
+      "category": "Drogen",
+      "defname": "SyrCoffee",
+      "price": 25
+    },
+    {
+      "abr": "coffeebeans",
+      "category": "Pflanzlich",
+      "defname": "SyrRawCoffee",
+      "price": 3
+    },
+    {
+      "abr": "crushedbloodstem",
+      "category": "Pflanzlich",
+      "defname": "CrushedStem",
+      "price": 2
+    },
+    {
+      "abr": "cupboard",
+      "category": "Diverses",
+      "defname": "GL_Cupboard",
+      "price": 417
+    },
+    {
+      "abr": "diningchair",
+      "category": "Möbel",
+      "defname": "RGKDiningChair",
+      "price": 192
+    },
+    {
+      "abr": "doghouse",
+      "category": "Möbel",
+      "defname": "ED_DogHouse",
+      "price": 135
+    },
+    {
+      "abr": "doormat",
+      "category": "Möbel",
+      "defname": "ED_Doormat",
+      "price": 8
+    },
+    {
+      "abr": "doormat",
+      "category": "Möbel",
+      "defname": "LT_DoorMatLeather",
+      "price": 8
+    },
+    {
+      "abr": "doormat(orange)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatOrange",
+      "price": 8
+    },
+    {
+      "abr": "doormat(teal)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatTeal",
+      "price": 8
+    },
+    {
+      "abr": "doppelterwandkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_SingleWallRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "doublebed",
+      "category": "Möbel",
+      "defname": "RGK_bedDouble",
+      "price": 292
+    },
+    {
+      "abr": "doublebed2",
+      "category": "Möbel",
+      "defname": "RGK_bedDoubleB",
+      "price": 292
+    },
+    {
+      "abr": "doublefuton(birds)",
+      "category": "Möbel",
+      "defname": "Erin_DoubleFutonA",
+      "price": 291
+    },
+    {
+      "abr": "doublefuton(floral)",
+      "category": "Möbel",
+      "defname": "Erin_DoubleFutonB",
+      "price": 291
+    },
+    {
+      "abr": "dresser",
+      "category": "Möbel",
+      "defname": "RGK_Dresser",
+      "price": 179
+    },
+    {
+      "abr": "dunklelavalampe",
+      "category": "Möbel",
+      "defname": "LavalampPDL",
+      "price": 66
+    },
+    {
+      "abr": "einfachefußprothese",
+      "category": "Prothetisch",
+      "defname": "SimpleProstheticFoot",
+      "price": 475
+    },
+    {
+      "abr": "einfachehandprothese",
+      "category": "Prothetisch",
+      "defname": "SimpleProstheticHand",
+      "price": 475
+    },
+    {
+      "abr": "einfachetierarm-prothese",
+      "category": "Tier-Prothesen",
+      "defname": "SimpleProstheticArmAnimal",
+      "price": 218
+    },
+    {
+      "abr": "einfachetierbein-prothese",
+      "category": "Tier-Prothesen",
+      "defname": "SimpleProstheticLegAnimal",
+      "price": 218
+    },
+    {
+      "abr": "einfachetierkiefer-prothese",
+      "category": "Tier-Prothesen",
+      "defname": "JawAnimalSimple",
+      "price": 121
+    },
+    {
+      "abr": "einfachetiernasen-prothese",
+      "category": "Tier-Prothesen",
+      "defname": "NoseAnimalSimple",
+      "price": 121
+    },
+    {
+      "abr": "einfachetierohr-prothese",
+      "category": "Tier-Prothesen",
+      "defname": "EarAnimalSimple",
+      "price": 121
+    },
+    {
+      "abr": "einfachetierwirbelsäulen-prothese",
+      "category": "Tier-Prothesen",
+      "defname": "SpineAnimalSimple",
+      "price": 202
+    },
+    {
+      "abr": "electricandon",
+      "category": "Möbel",
+      "defname": "Erin_ElectricAndon",
+      "price": 132
+    },
+    {
+      "abr": "electricivdrip(anesthetic)",
+      "category": "Diverses",
+      "defname": "IV_Anesthetic_Electric",
+      "price": 725
+    },
+    {
+      "abr": "electricivdrip(antibiotic)",
+      "category": "Diverses",
+      "defname": "IV_Antibiotics_Electric",
+      "price": 892
+    },
+    {
+      "abr": "electricivdrip(blood)",
+      "category": "Diverses",
+      "defname": "IV_Blood_Electric",
+      "price": 892
+    },
+    {
+      "abr": "electricivdrip(glitterworld)",
+      "category": "Diverses",
+      "defname": "IV_Multi_Electric",
+      "price": 1042
+    },
+    {
+      "abr": "electricivdrip(nutrition)",
+      "category": "Diverses",
+      "defname": "IV_Nutrition_Electric",
+      "price": 417
+    },
+    {
+      "abr": "electricivdrip(painkiller)",
+      "category": "Diverses",
+      "defname": "IV_Painkiller_Electric",
+      "price": 492
+    },
+    {
+      "abr": "electricsmithy",
+      "category": "Produktion",
+      "defname": "GL_ElectricSmithy",
+      "price": 533
+    },
+    {
+      "abr": "electricstove",
+      "category": "Produktion",
+      "defname": "GL_ElectricStove",
+      "price": 383
+    },
+    {
+      "abr": "electrictailorbench",
+      "category": "Produktion",
+      "defname": "GL_ElectricTailoringBench",
+      "price": 542
+    },
+    {
+      "abr": "endtable",
+      "category": "Möbel",
+      "defname": "RGK_EndTable",
+      "price": 106
+    },
+    {
+      "abr": "endtable",
+      "category": "Möbel",
+      "defname": "RGK_EndTableWithLamp",
+      "price": 138
+    },
+    {
+      "abr": "endtable",
+      "category": "Möbel",
+      "defname": "RGK_EndTableWithLampE",
+      "price": 185
+    },
+    {
+      "abr": "exoskeletonsuit",
+      "category": "Ultratech",
+      "defname": "ExoskeletonSuit",
+      "price": 3708
+    },
+    {
+      "abr": "fireplace",
+      "category": "Möbel",
+      "defname": "RGK_Fireplace",
+      "price": 392
+    },
+    {
+      "abr": "fireplacee",
+      "category": "Möbel",
+      "defname": "RGK_FireplaceE",
+      "price": 408
+    },
+    {
+      "abr": "fueledandon",
+      "category": "Möbel",
+      "defname": "Erin_TorchAndon",
+      "price": 109
+    },
+    {
+      "abr": "fueledsmithy",
+      "category": "Produktion",
+      "defname": "GL_FueledSmithy",
+      "price": 367
+    },
+    {
+      "abr": "fueledstove",
+      "category": "Produktion",
+      "defname": "RGK_FueledStove",
+      "price": 279
+    },
+    {
+      "abr": "fußabtreter(blau)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatBlue",
+      "price": 8
+    },
+    {
+      "abr": "fußabtreter(grün)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatGreen",
+      "price": 8
+    },
+    {
+      "abr": "fußabtreter(rot)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatRed",
+      "price": 8
+    },
+    {
+      "abr": "futon(floral)",
+      "category": "Möbel",
+      "defname": "Erin_FutonA",
+      "price": 154
+    },
+    {
+      "abr": "futon(koi)",
+      "category": "Möbel",
+      "defname": "Erin_FutonB",
+      "price": 154
+    },
+    {
+      "abr": "gardenlight",
+      "category": "Möbel",
+      "defname": "SC_GardenLightCenter",
+      "price": 65
+    },
+    {
+      "abr": "gardenlight(corner)",
+      "category": "Möbel",
+      "defname": "SC_GardenLightCorner",
+      "price": 65
+    },
+    {
+      "abr": "gardenlight(side)",
+      "category": "Möbel",
+      "defname": "SC_GardenLight",
+      "price": 65
+    },
+    {
+      "abr": "gehirnstimulator",
+      "category": "Prothetisch",
+      "defname": "BrainStimulator",
+      "price": 1333
+    },
+    {
+      "abr": "gelbelavalampe",
+      "category": "Möbel",
+      "defname": "LavalampY",
+      "price": 66
+    },
+    {
+      "abr": "gewebedrucker",
+      "category": "Produktion",
+      "defname": "TableOrgans",
+      "price": 3167
+    },
+    {
+      "abr": "goldenesauge",
+      "category": "Prothetisch",
+      "defname": "GoldenEye",
+      "price": 47
+    },
+    {
+      "abr": "großerfußabtreter(blau)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatBigBlue",
+      "price": 13
+    },
+    {
+      "abr": "großerfußabtreter(grün)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatBigGreen",
+      "price": 13
+    },
+    {
+      "abr": "großerfußabtreter(rot)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatBigRed",
+      "price": 13
+    },
+    {
+      "abr": "großerkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_QuadRefrigerator",
+      "price": 307
+    },
+    {
+      "abr": "grüne",
+      "category": "Möbel",
+      "defname": "LavalampG",
+      "price": 66
+    },
+    {
+      "abr": "hakenhand",
+      "category": "Einfache Teile",
+      "defname": "HookHand",
+      "price": 94
+    },
+    {
+      "abr": "handtailorbench",
+      "category": "Produktion",
+      "defname": "GL_HandTailoringBench",
+      "price": 225
+    },
+    {
+      "abr": "holzbein",
+      "category": "Einfache Teile",
+      "defname": "PegLeg",
+      "price": 115
+    },
+    {
+      "abr": "hölzernerfuß",
+      "category": "Einfache Teile",
+      "defname": "WoodenFoot",
+      "price": 65
+    },
+    {
+      "abr": "hotchocolate",
+      "category": "Drogen",
+      "defname": "SyrHotChocolate",
+      "price": 13
+    },
+    {
+      "abr": "hydraulischerkiefer",
+      "category": "Prothetisch",
+      "defname": "HydraulicJaw",
+      "price": 279
+    },
+    {
+      "abr": "incenseholder",
+      "category": "Möbel",
+      "defname": "Erin_IncenseHolder",
+      "price": 7
+    },
+    {
+      "abr": "ivantibiotics",
+      "category": "Drogen",
+      "defname": "Antibiotics",
+      "price": 53
+    },
+    {
+      "abr": "ivdrip(anesthetic)",
+      "category": "Diverses",
+      "defname": "IV_Anesthetic",
+      "price": 608
+    },
+    {
+      "abr": "ivdrip(antibiotic)",
+      "category": "Diverses",
+      "defname": "IV_Antibiotics",
+      "price": 608
+    },
+    {
+      "abr": "ivdrip(blood)",
+      "category": "Diverses",
+      "defname": "IV_Blood",
+      "price": 608
+    },
+    {
+      "abr": "ivdrip(nutrition)",
+      "category": "Diverses",
+      "defname": "IV_Nutrition",
+      "price": 450
+    },
+    {
+      "abr": "ivdrip(painkiller)",
+      "category": "Diverses",
+      "defname": "IV_Painkiller",
+      "price": 608
+    },
+    {
+      "abr": "ivpainkillers",
+      "category": "Drogen",
+      "defname": "Painkillers",
+      "price": 53
+    },
+    {
+      "abr": "jukebox",
+      "category": "Entspannung",
+      "defname": "JukeBox",
+      "price": 1617
+    },
+    {
+      "abr": "kampfkunstdummy",
+      "category": "Entspannung",
+      "defname": "MartialArtsTarget",
+      "price": 251
+    },
+    {
+      "abr": "ki-chip",
+      "category": "Bionisch",
+      "defname": "AIChip",
+      "price": 2133
+    },
+    {
+      "abr": "kiefer",
+      "category": "Natürlich",
+      "defname": "Jaw",
+      "price": 833
+    },
+    {
+      "abr": "kotatsu",
+      "category": "Möbel",
+      "defname": "Erin_Kotatsu",
+      "price": 315
+    },
+    {
+      "abr": "kühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_Refrigerator",
+      "price": 186
+    },
+    {
+      "abr": "künstlichenase",
+      "category": "Prothetisch",
+      "defname": "ArtificialNose",
+      "price": 330
+    },
+    {
+      "abr": "künstlicheniere",
+      "category": "Bionisch",
+      "defname": "SyntheticKidney",
+      "price": 1183
+    },
+    {
+      "abr": "künstlichesbecken",
+      "category": "Prothetisch",
+      "defname": "ArtificialPelvis",
+      "price": 475
+    },
+    {
+      "abr": "künstlichesschlüsselbein",
+      "category": "Prothetisch",
+      "defname": "ArtificialClavicle",
+      "price": 141
+    },
+    {
+      "abr": "lamp",
+      "category": "Möbel",
+      "defname": "RGK_lamp",
+      "price": 42
+    },
+    {
+      "abr": "lampe",
+      "category": "Möbel",
+      "defname": "RGK_lampE",
+      "price": 90
+    },
+    {
+      "abr": "lampe(white)",
+      "category": "Möbel",
+      "defname": "GL_lampE_White",
+      "price": 90
+    },
+    {
+      "abr": "lampm",
+      "category": "Möbel",
+      "defname": "RGK_LampM",
+      "price": 42
+    },
+    {
+      "abr": "lampm(white)",
+      "category": "Möbel",
+      "defname": "GL_LampM_White",
+      "price": 42
+    },
+    {
+      "abr": "lamp(white)",
+      "category": "Möbel",
+      "defname": "GL_lamp_White",
+      "price": 42
+    },
+    {
+      "abr": "laptop",
+      "category": "Möbel",
+      "defname": "ED_Laptop",
+      "price": 6
+    },
+    {
+      "abr": "largedoormat",
+      "category": "Möbel",
+      "defname": "LT_DoorMatBigLeather",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(orange)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatBigOrange",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(teal)",
+      "category": "Möbel",
+      "defname": "LT_DoorMatBigTeal",
+      "price": 13
+    },
+    {
+      "abr": "leberersatz",
+      "category": "Prothetisch",
+      "defname": "SurrogateLiver",
+      "price": 583
+    },
+    {
+      "abr": "lichtrezeptor",
+      "category": "Prothetisch",
+      "defname": "LightReceptor",
+      "price": 508
+    },
+    {
+      "abr": "lilalavalampe",
+      "category": "Möbel",
+      "defname": "LavalampP",
+      "price": 66
+    },
+    {
+      "abr": "locker",
+      "category": "Möbel",
+      "defname": "GL_Locker",
+      "price": 284
+    },
+    {
+      "abr": "lowtable",
+      "category": "Möbel",
+      "defname": "Erin_LowTable",
+      "price": 50
+    },
+    {
+      "abr": "lungenersatz",
+      "category": "Prothetisch",
+      "defname": "SurrogateLung",
+      "price": 583
+    },
+    {
+      "abr": "eltex-stab",
+      "category": "Nahkampfwaffen",
+      "defname": "MeleeWeapon_PsyfocusStaff",
+      "price": 3333
+    },
+    {
+      "abr": "grenadierrüstung",
+      "category": "Rüstung",
+      "defname": "Apparel_ArmorMarineGrenadier",
+      "price": 3842
+    },
+    {
+      "abr": "kataphrakthelm",
+      "category": "Kopfbedeckung",
+      "defname": "Apparel_ArmorHelmetCataphract",
+      "price": 1242
+    },
+    {
+      "abr": "kataphraktrüstung",
+      "category": "Rüstung",
+      "defname": "Apparel_ArmorCataphract",
+      "price": 5200
+    },
+    {
+      "abr": "kurzbogen",
+      "category": "Fernkampfwaffen",
+      "defname": "Bow_Short",
+      "price": 74
+    },
+    {
+      "abr": "langbogen",
+      "category": "Fernkampfwaffen",
+      "defname": "Bow_Great",
+      "price": 174
+    },
+    {
+      "abr": "magen",
+      "category": "Natürlich",
+      "defname": "Stomach",
+      "price": 1667
+    },
+    {
+      "abr": "magenersatz",
+      "category": "Prothetisch",
+      "defname": "SurrogateStomach",
+      "price": 583
+    },
+    {
+      "abr": "manger",
+      "category": "Möbel",
+      "defname": "RGK_Manger",
+      "price": 254
+    },
+    {
+      "abr": "marinehelm",
+      "category": "Kopfbedeckung",
+      "defname": "Apparel_PowerArmorHelmet",
+      "price": 1058
+    },
+    {
+      "abr": "marinerüstung",
+      "category": "Rüstung",
+      "defname": "Apparel_PowerArmor",
+      "price": 3392
+    },
+    {
+      "abr": "medicalanimalbed",
+      "category": "Möbel",
+      "defname": "SUN_MedicalAnimalBed",
+      "price": 358
+    },
+    {
+      "abr": "medizinischesrippen-implantat",
+      "category": "Bionisch",
+      "defname": "MedicalRib",
+      "price": 650
+    },
+    {
+      "abr": "minitable",
+      "category": "Möbel",
+      "defname": "RGK_MiniTableA",
+      "price": 88
+    },
+    {
+      "abr": "minitable",
+      "category": "Möbel",
+      "defname": "RGK_MiniTableB",
+      "price": 88
+    },
+    {
+      "abr": "mini-kühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_SingleRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "monoschwert",
+      "category": "Nahkampfwaffen",
+      "defname": "MeleeWeapon_MonoSword",
+      "price": 3333
+    },
+    {
+      "abr": "musclestimulator",
+      "category": "Archotech",
+      "defname": "MuscleStimulator",
+      "price": 4167
+    },
+    {
+      "abr": "nase",
+      "category": "Natürlich",
+      "defname": "Nose",
+      "price": 833
+    },
+    {
+      "abr": "nierenersatz",
+      "category": "Prothetisch",
+      "defname": "SurrogateKidney",
+      "price": 583
+    },
+    {
+      "abr": "noteblock(a5sharp)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveAs",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(a5)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveA",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(b5)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveB",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(c5sharp)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveCs",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(c5)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveC",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(d5sharp)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveDs",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(d5)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveD",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(e5)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveE",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(f5sharp)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveFs",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(f5)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveF",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(g5sharp)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveGs",
+      "price": 32
+    },
+    {
+      "abr": "noteblock(g5)",
+      "category": "Diverses",
+      "defname": "TRAHS_Noteblock_FiveG",
+      "price": 32
+    },
+    {
+      "abr": "ohr",
+      "category": "Natürlich",
+      "defname": "Ear",
+      "price": 833
+    },
+    {
+      "abr": "ohrenbinde",
+      "category": "Einfache Teile",
+      "defname": "EarBandage",
+      "price": 65
+    },
+    {
+      "abr": "orbitalbombardierung-zielgerät",
+      "category": "Hilfsmittel",
+      "defname": "OrbitalTargeterBombardment",
+      "price": 2000
+    },
+    {
+      "abr": "orbitalenergiestrahl-zielgerät",
+      "category": "Hilfsmittel",
+      "defname": "OrbitalTargeterPowerBeam",
+      "price": 2000
+    },
+    {
+      "abr": "orbital-mech-cluster-zielgerät",
+      "category": "Hilfsmittel",
+      "defname": "OrbitalTargeterMechCluster",
+      "price": 2000
+    },
+    {
+      "abr": "paper",
+      "category": "Möbel",
+      "defname": "ED_Paper",
+      "price": 3
+    },
+    {
+      "abr": "papers",
+      "category": "Möbel",
+      "defname": "ED_Papers",
+      "price": 3
+    },
+    {
+      "abr": "persona-monoschwert",
+      "category": "Persona-Waffen",
+      "defname": "MeleeWeapon_MonoSwordBladelink",
+      "price": 5000
+    },
+    {
+      "abr": "persona-plasmaschwert",
+      "category": "Persona-Waffen",
+      "defname": "MeleeWeapon_PlasmaSwordBladelink",
+      "price": 5000
+    },
+    {
+      "abr": "persona-zeushammer",
+      "category": "Persona-Waffen",
+      "defname": "MeleeWeapon_ZeusHammerBladelink",
+      "price": 5000
+    },
+    {
+      "abr": "petbowl",
+      "category": "Möbel",
+      "defname": "ED_PetBowl",
+      "price": 34
+    },
+    {
+      "abr": "phönixrüstung",
+      "category": "Rüstung",
+      "defname": "Apparel_ArmorCataphractPhoenix",
+      "price": 5800
+    },
+    {
+      "abr": "pileofbooks",
+      "category": "Möbel",
+      "defname": "ED_PileofBooks",
+      "price": 4
+    },
+    {
+      "abr": "pillow",
+      "category": "Möbel",
+      "defname": "ED_Pillow",
+      "price": 10
+    },
+    {
+      "abr": "pilum",
+      "category": "Fernkampfwaffen",
+      "defname": "Pila",
+      "price": 182
+    },
+    {
+      "abr": "plasmaschwert",
+      "category": "Nahkampfwaffen",
+      "defname": "MeleeWeapon_PlasmaSword",
+      "price": 3333
+    },
+    {
+      "abr": "plushie",
+      "category": "Möbel",
+      "defname": "ED_Plushie",
+      "price": 11
+    },
+    {
       "abr": "abomasnow",
       "category": "Tiere",
       "defname": "PW_Abomasnow",
@@ -5047,702 +6313,6 @@
       "price": -10
     },
     {
-      "abr": "advancedpowerclaw",
-      "category": "Ultratech",
-      "defname": "AdvancedPowerClaw",
-      "price": 2267
-    },
-    {
-      "abr": "arm",
-      "category": "Natürlich",
-      "defname": "Arm",
-      "price": 2167
-    },
-    {
-      "abr": "aufputschendesrippen-implantat",
-      "category": "Bionisch",
-      "defname": "AdrenalineRib",
-      "price": 917
-    },
-    {
-      "abr": "auge",
-      "category": "Natürlich",
-      "defname": "Eye",
-      "price": 2500
-    },
-    {
-      "abr": "augenklappe",
-      "category": "Einfache Teile",
-      "defname": "EyePatch",
-      "price": 65
-    },
-    {
-      "abr": "auxiliaryai(agricultural)",
-      "category": "Archotech",
-      "defname": "FarmerCore",
-      "price": 5833
-    },
-    {
-      "abr": "auxiliaryai(constructing)",
-      "category": "Archotech",
-      "defname": "ConstructorCore",
-      "price": 5833
-    },
-    {
-      "abr": "auxiliaryai(diplomatic)",
-      "category": "Archotech",
-      "defname": "DiplomatCore",
-      "price": 5833
-    },
-    {
-      "abr": "auxiliaryai(medical)",
-      "category": "Archotech",
-      "defname": "DoctorCore",
-      "price": 5833
-    },
-    {
-      "abr": "auxiliaryai(mining)",
-      "category": "Archotech",
-      "defname": "MinerCore",
-      "price": 5833
-    },
-    {
-      "abr": "ballpit",
-      "category": "Möbel",
-      "defname": "BuildingRecBallpit",
-      "price": 1250
-    },
-    {
-      "abr": "bed",
-      "category": "Möbel",
-      "defname": "RGK_bedSingle",
-      "price": 155
-    },
-    {
-      "abr": "bed2",
-      "category": "Möbel",
-      "defname": "RGK_bedSingleB",
-      "price": 155
-    },
-    {
-      "abr": "bedsideclock",
-      "category": "Möbel",
-      "defname": "ED_Clock",
-      "price": 4
-    },
-    {
-      "abr": "bein",
-      "category": "Natürlich",
-      "defname": "Leg",
-      "price": 2167
-    },
-    {
-      "abr": "bench",
-      "category": "Möbel",
-      "defname": "GL_Bench",
-      "price": 358
-    },
-    {
-      "abr": "betäubendesrippen-implantat",
-      "category": "Bionisch",
-      "defname": "DruggedRib",
-      "price": 800
-    },
-    {
-      "abr": "bin",
-      "category": "Möbel",
-      "defname": "ED_Bin",
-      "price": 4
-    },
-    {
-      "abr": "bionischehand",
-      "category": "Bionisch",
-      "defname": "BionicHand",
-      "price": 983
-    },
-    {
-      "abr": "bionischetierleber",
-      "category": "Tier-Prothesen",
-      "defname": "BionicAnimalLiver",
-      "price": 483
-    },
-    {
-      "abr": "bionischetierlunge",
-      "category": "Tier-Prothesen",
-      "defname": "BionicAnimalLung",
-      "price": 483
-    },
-    {
-      "abr": "bionischetierniere",
-      "category": "Tier-Prothesen",
-      "defname": "BionicAnimalKidney",
-      "price": 483
-    },
-    {
-      "abr": "bionischetierwirbelsäule",
-      "category": "Tier-Prothesen",
-      "defname": "SpineAnimalBionic",
-      "price": 1050
-    },
-    {
-      "abr": "bionischerfuß",
-      "category": "Bionisch",
-      "defname": "BionicFoot",
-      "price": 983
-    },
-    {
-      "abr": "bionischerkiefer",
-      "category": "Bionisch",
-      "defname": "BionicJaw",
-      "price": 908
-    },
-    {
-      "abr": "bionischertierarm",
-      "category": "Tier-Prothesen",
-      "defname": "BionicArmAnimal",
-      "price": 892
-    },
-    {
-      "abr": "bionischertierkiefer",
-      "category": "Tier-Prothesen",
-      "defname": "JawAnimalBionic",
-      "price": 867
-    },
-    {
-      "abr": "bionischertiermagen",
-      "category": "Tier-Prothesen",
-      "defname": "BionicAnimalStomach",
-      "price": 492
-    },
-    {
-      "abr": "bionischestierauge",
-      "category": "Tier-Prothesen",
-      "defname": "BionicEyeAnimal",
-      "price": 867
-    },
-    {
-      "abr": "bionischestierbein",
-      "category": "Tier-Prothesen",
-      "defname": "BionicLegAnimal",
-      "price": 892
-    },
-    {
-      "abr": "bionischestierherz",
-      "category": "Tier-Prothesen",
-      "defname": "BionicAnimalHeart",
-      "price": 667
-    },
-    {
-      "abr": "bionischestierohr",
-      "category": "Tier-Prothesen",
-      "defname": "EarAnimalBionic",
-      "price": 867
-    },
-    {
-      "abr": "blauelavalampe",
-      "category": "Möbel",
-      "defname": "LavalampB",
-      "price": 66
-    },
-    {
-      "abr": "bloodbag",
-      "category": "Medizin",
-      "defname": "IV_BloodBag",
-      "price": 2
-    },
-    {
-      "abr": "bloodstemleaf",
-      "category": "Pflanzlich",
-      "defname": "Bloodstem",
-      "price": 2
-    },
-    {
-      "abr": "bogenschießscheibe",
-      "category": "Entspannung",
-      "defname": "ArcheryTarget",
-      "price": 248
-    },
-    {
-      "abr": "bonfire",
-      "category": "Möbel",
-      "defname": "GL_Bonfire",
-      "price": 417
-    },
-    {
-      "abr": "bonsaipot",
-      "category": "Kunst",
-      "defname": "Erin_BonsaiPot",
-      "price": 299
-    },
-    {
-      "abr": "book",
-      "category": "Möbel",
-      "defname": "ED_Book",
-      "price": 3
-    },
-    {
-      "abr": "bookshelf",
-      "category": "Diverses",
-      "defname": "GL_Bookshelf",
-      "price": 908
-    },
-    {
-      "abr": "bowl",
-      "category": "Möbel",
-      "defname": "RGK_DogBowl",
-      "price": 104
-    },
-    {
-      "abr": "butchertable",
-      "category": "Produktion",
-      "defname": "GL_TableButcher",
-      "price": 279
-    },
-    {
-      "abr": "candles",
-      "category": "Möbel",
-      "defname": "ED_Candles",
-      "price": 20
-    },
-    {
-      "abr": "cattower",
-      "category": "Möbel",
-      "defname": "ED_CatTower",
-      "price": 134
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugA_Small",
-      "price": 304
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugB_Small",
-      "price": 304
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugC_Small",
-      "price": 304
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugA",
-      "price": 400
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugB",
-      "price": 400
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugC",
-      "price": 400
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugA_Large",
-      "price": 500
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugB_Large",
-      "price": 500
-    },
-    {
-      "abr": "celticrug",
-      "category": "Möbel",
-      "defname": "RugC_Large",
-      "price": 500
-    },
-    {
-      "abr": "celtictable(2x1)",
-      "category": "Möbel",
-      "defname": "RGK_TableE",
-      "price": 367
-    },
-    {
-      "abr": "celtictable(2x2)",
-      "category": "Möbel",
-      "defname": "RGK_TableB",
-      "price": 392
-    },
-    {
-      "abr": "celtictable(2x2)",
-      "category": "Möbel",
-      "defname": "RGK_TableD",
-      "price": 392
-    },
-    {
-      "abr": "celtictable(2x2)",
-      "category": "Möbel",
-      "defname": "RGK_TableG",
-      "price": 692
-    },
-    {
-      "abr": "celtictable(3x2)",
-      "category": "Möbel",
-      "defname": "RGK_TableF",
-      "price": 650
-    },
-    {
-      "abr": "celtictable(3x3)",
-      "category": "Möbel",
-      "defname": "RGK_TableH",
-      "price": 850
-    },
-    {
-      "abr": "chair",
-      "category": "Möbel",
-      "defname": "RGK_Chair",
-      "price": 180
-    },
-    {
-      "abr": "classydoublebed",
-      "category": "Möbel",
-      "defname": "GL_ClassyDoubleBed",
-      "price": 942
-    },
-    {
-      "abr": "coffee",
-      "category": "Drogen",
-      "defname": "SyrCoffee",
-      "price": 25
-    },
-    {
-      "abr": "coffeebeans",
-      "category": "Pflanzlich",
-      "defname": "SyrRawCoffee",
-      "price": 3
-    },
-    {
-      "abr": "crushedbloodstem",
-      "category": "Pflanzlich",
-      "defname": "CrushedStem",
-      "price": 2
-    },
-    {
-      "abr": "cupboard",
-      "category": "Diverses",
-      "defname": "GL_Cupboard",
-      "price": 417
-    },
-    {
-      "abr": "diningchair",
-      "category": "Möbel",
-      "defname": "RGKDiningChair",
-      "price": 192
-    },
-    {
-      "abr": "doghouse",
-      "category": "Möbel",
-      "defname": "ED_DogHouse",
-      "price": 135
-    },
-    {
-      "abr": "doormat",
-      "category": "Möbel",
-      "defname": "ED_Doormat",
-      "price": 8
-    },
-    {
-      "abr": "doormat",
-      "category": "Möbel",
-      "defname": "LT_DoorMatLeather",
-      "price": 8
-    },
-    {
-      "abr": "doormat(orange)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatOrange",
-      "price": 8
-    },
-    {
-      "abr": "doormat(teal)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatTeal",
-      "price": 8
-    },
-    {
-      "abr": "doppelterwandkühlschrank",
-      "category": "Möbel",
-      "defname": "RimFridge_SingleWallRefrigerator",
-      "price": 121
-    },
-    {
-      "abr": "doublebed",
-      "category": "Möbel",
-      "defname": "RGK_bedDouble",
-      "price": 292
-    },
-    {
-      "abr": "doublebed2",
-      "category": "Möbel",
-      "defname": "RGK_bedDoubleB",
-      "price": 292
-    },
-    {
-      "abr": "doublefuton(birds)",
-      "category": "Möbel",
-      "defname": "Erin_DoubleFutonA",
-      "price": 291
-    },
-    {
-      "abr": "doublefuton(floral)",
-      "category": "Möbel",
-      "defname": "Erin_DoubleFutonB",
-      "price": 291
-    },
-    {
-      "abr": "dresser",
-      "category": "Möbel",
-      "defname": "RGK_Dresser",
-      "price": 179
-    },
-    {
-      "abr": "dunklelavalampe",
-      "category": "Möbel",
-      "defname": "LavalampPDL",
-      "price": 66
-    },
-    {
-      "abr": "einfachefußprothese",
-      "category": "Prothetisch",
-      "defname": "SimpleProstheticFoot",
-      "price": 475
-    },
-    {
-      "abr": "einfachehandprothese",
-      "category": "Prothetisch",
-      "defname": "SimpleProstheticHand",
-      "price": 475
-    },
-    {
-      "abr": "einfachetierarm-prothese",
-      "category": "Tier-Prothesen",
-      "defname": "SimpleProstheticArmAnimal",
-      "price": 218
-    },
-    {
-      "abr": "einfachetierbein-prothese",
-      "category": "Tier-Prothesen",
-      "defname": "SimpleProstheticLegAnimal",
-      "price": 218
-    },
-    {
-      "abr": "einfachetierkiefer-prothese",
-      "category": "Tier-Prothesen",
-      "defname": "JawAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "einfachetiernasen-prothese",
-      "category": "Tier-Prothesen",
-      "defname": "NoseAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "einfachetierohr-prothese",
-      "category": "Tier-Prothesen",
-      "defname": "EarAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "einfachetierwirbelsäulen-prothese",
-      "category": "Tier-Prothesen",
-      "defname": "SpineAnimalSimple",
-      "price": 202
-    },
-    {
-      "abr": "electricandon",
-      "category": "Möbel",
-      "defname": "Erin_ElectricAndon",
-      "price": 132
-    },
-    {
-      "abr": "electricivdrip(anesthetic)",
-      "category": "Diverses",
-      "defname": "IV_Anesthetic_Electric",
-      "price": 725
-    },
-    {
-      "abr": "electricivdrip(antibiotic)",
-      "category": "Diverses",
-      "defname": "IV_Antibiotics_Electric",
-      "price": 892
-    },
-    {
-      "abr": "electricivdrip(blood)",
-      "category": "Diverses",
-      "defname": "IV_Blood_Electric",
-      "price": 892
-    },
-    {
-      "abr": "electricivdrip(glitterworld)",
-      "category": "Diverses",
-      "defname": "IV_Multi_Electric",
-      "price": 1042
-    },
-    {
-      "abr": "electricivdrip(nutrition)",
-      "category": "Diverses",
-      "defname": "IV_Nutrition_Electric",
-      "price": 417
-    },
-    {
-      "abr": "electricivdrip(painkiller)",
-      "category": "Diverses",
-      "defname": "IV_Painkiller_Electric",
-      "price": 492
-    },
-    {
-      "abr": "electricsmithy",
-      "category": "Produktion",
-      "defname": "GL_ElectricSmithy",
-      "price": 533
-    },
-    {
-      "abr": "electricstove",
-      "category": "Produktion",
-      "defname": "GL_ElectricStove",
-      "price": 383
-    },
-    {
-      "abr": "electrictailorbench",
-      "category": "Produktion",
-      "defname": "GL_ElectricTailoringBench",
-      "price": 542
-    },
-    {
-      "abr": "endtable",
-      "category": "Möbel",
-      "defname": "RGK_EndTable",
-      "price": 106
-    },
-    {
-      "abr": "endtable",
-      "category": "Möbel",
-      "defname": "RGK_EndTableWithLamp",
-      "price": 138
-    },
-    {
-      "abr": "endtable",
-      "category": "Möbel",
-      "defname": "RGK_EndTableWithLampE",
-      "price": 185
-    },
-    {
-      "abr": "exoskeletonsuit",
-      "category": "Ultratech",
-      "defname": "ExoskeletonSuit",
-      "price": 3708
-    },
-    {
-      "abr": "fireplace",
-      "category": "Möbel",
-      "defname": "RGK_Fireplace",
-      "price": 392
-    },
-    {
-      "abr": "fireplacee",
-      "category": "Möbel",
-      "defname": "RGK_FireplaceE",
-      "price": 408
-    },
-    {
-      "abr": "fueledandon",
-      "category": "Möbel",
-      "defname": "Erin_TorchAndon",
-      "price": 109
-    },
-    {
-      "abr": "fueledsmithy",
-      "category": "Produktion",
-      "defname": "GL_FueledSmithy",
-      "price": 367
-    },
-    {
-      "abr": "fueledstove",
-      "category": "Produktion",
-      "defname": "RGK_FueledStove",
-      "price": 279
-    },
-    {
-      "abr": "fußabtreter(blau)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatBlue",
-      "price": 8
-    },
-    {
-      "abr": "fußabtreter(grün)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatGreen",
-      "price": 8
-    },
-    {
-      "abr": "fußabtreter(rot)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatRed",
-      "price": 8
-    },
-    {
-      "abr": "futon(floral)",
-      "category": "Möbel",
-      "defname": "Erin_FutonA",
-      "price": 154
-    },
-    {
-      "abr": "futon(koi)",
-      "category": "Möbel",
-      "defname": "Erin_FutonB",
-      "price": 154
-    },
-    {
-      "abr": "gardenlight",
-      "category": "Möbel",
-      "defname": "SC_GardenLightCenter",
-      "price": 65
-    },
-    {
-      "abr": "gardenlight(corner)",
-      "category": "Möbel",
-      "defname": "SC_GardenLightCorner",
-      "price": 65
-    },
-    {
-      "abr": "gardenlight(side)",
-      "category": "Möbel",
-      "defname": "SC_GardenLight",
-      "price": 65
-    },
-    {
-      "abr": "gehirnstimulator",
-      "category": "Prothetisch",
-      "defname": "BrainStimulator",
-      "price": 1333
-    },
-    {
-      "abr": "gelbelavalampe",
-      "category": "Möbel",
-      "defname": "LavalampY",
-      "price": 66
-    },
-    {
-      "abr": "gewebedrucker",
-      "category": "Produktion",
-      "defname": "TableOrgans",
-      "price": 3167
-    },
-    {
       "abr": "giratina",
       "category": "Tiere",
       "defname": "PW_Giratina",
@@ -5797,12 +6367,6 @@
       "price": -10
     },
     {
-      "abr": "goldenesauge",
-      "category": "Prothetisch",
-      "defname": "GoldenEye",
-      "price": 47
-    },
-    {
       "abr": "golduck",
       "category": "Tiere",
       "defname": "PW_Golduck",
@@ -5845,30 +6409,6 @@
       "price": -10
     },
     {
-      "abr": "großerfußabtreter(blau)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatBigBlue",
-      "price": 13
-    },
-    {
-      "abr": "großerfußabtreter(grün)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatBigGreen",
-      "price": 13
-    },
-    {
-      "abr": "großerfußabtreter(rot)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatBigRed",
-      "price": 13
-    },
-    {
-      "abr": "großerkühlschrank",
-      "category": "Möbel",
-      "defname": "RimFridge_QuadRefrigerator",
-      "price": 307
-    },
-    {
       "abr": "grotle",
       "category": "Tiere",
       "defname": "PW_Grotle",
@@ -5899,12 +6439,6 @@
       "price": -10
     },
     {
-      "abr": "grüne",
-      "category": "Möbel",
-      "defname": "LavalampG",
-      "price": 66
-    },
-    {
       "abr": "gulpin",
       "category": "Tiere",
       "defname": "PW_Gulpin",
@@ -5915,18 +6449,6 @@
       "category": "Tiere",
       "defname": "PW_Gyarados",
       "price": -10
-    },
-    {
-      "abr": "hakenhand",
-      "category": "Einfache Teile",
-      "defname": "HookHand",
-      "price": 94
-    },
-    {
-      "abr": "handtailorbench",
-      "category": "Produktion",
-      "defname": "GL_HandTailoringBench",
-      "price": 225
     },
     {
       "abr": "happiny",
@@ -6001,18 +6523,6 @@
       "price": -10
     },
     {
-      "abr": "holzbein",
-      "category": "Einfache Teile",
-      "defname": "PegLeg",
-      "price": 115
-    },
-    {
-      "abr": "hölzernerfuß",
-      "category": "Einfache Teile",
-      "defname": "WoodenFoot",
-      "price": 65
-    },
-    {
       "abr": "honchkrow",
       "category": "Tiere",
       "defname": "PW_Honchkrow",
@@ -6043,12 +6553,6 @@
       "price": -10
     },
     {
-      "abr": "hotchocolate",
-      "category": "Drogen",
-      "defname": "SyrHotChocolate",
-      "price": 13
-    },
-    {
       "abr": "houndoom",
       "category": "Tiere",
       "defname": "PW_Houndoom",
@@ -6067,16 +6571,10 @@
       "price": -10
     },
     {
-      "abr": "hydraulischerkiefer",
-      "category": "Prothetisch",
-      "defname": "HydraulicJaw",
-      "price": 279
-    },
-    {
       "abr": "hyperpotion",
       "category": "Healing",
       "defname": "PW_HyperPotion",
-      "price": 120
+      "price": 750
     },
     {
       "abr": "hypno",
@@ -6103,58 +6601,10 @@
       "price": -10
     },
     {
-      "abr": "incenseholder",
-      "category": "Möbel",
-      "defname": "Erin_IncenseHolder",
-      "price": 7
-    },
-    {
       "abr": "infernape",
       "category": "Tiere",
       "defname": "PW_Infernape",
       "price": -10
-    },
-    {
-      "abr": "ivantibiotics",
-      "category": "Drogen",
-      "defname": "Antibiotics",
-      "price": 53
-    },
-    {
-      "abr": "ivdrip(anesthetic)",
-      "category": "Diverses",
-      "defname": "IV_Anesthetic",
-      "price": 608
-    },
-    {
-      "abr": "ivdrip(antibiotic)",
-      "category": "Diverses",
-      "defname": "IV_Antibiotics",
-      "price": 608
-    },
-    {
-      "abr": "ivdrip(blood)",
-      "category": "Diverses",
-      "defname": "IV_Blood",
-      "price": 608
-    },
-    {
-      "abr": "ivdrip(nutrition)",
-      "category": "Diverses",
-      "defname": "IV_Nutrition",
-      "price": 450
-    },
-    {
-      "abr": "ivdrip(painkiller)",
-      "category": "Diverses",
-      "defname": "IV_Painkiller",
-      "price": 608
-    },
-    {
-      "abr": "ivpainkillers",
-      "category": "Drogen",
-      "defname": "Painkillers",
-      "price": 53
     },
     {
       "abr": "ivysaur",
@@ -6166,7 +6616,7 @@
       "abr": "jigglypuff",
       "category": "Tiere",
       "defname": "PW_Jigglypuff",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "jirachi",
@@ -6179,12 +6629,6 @@
       "category": "Tiere",
       "defname": "PW_Jolteon",
       "price": -10
-    },
-    {
-      "abr": "jukebox",
-      "category": "Entspannung",
-      "defname": "JukeBox",
-      "price": 1617
     },
     {
       "abr": "jumpluff",
@@ -6223,12 +6667,6 @@
       "price": -10
     },
     {
-      "abr": "kampfkunstdummy",
-      "category": "Entspannung",
-      "defname": "MartialArtsTarget",
-      "price": 251
-    },
-    {
       "abr": "kangaskhan",
       "category": "Tiere",
       "defname": "PW_Kangaskhan",
@@ -6239,18 +6677,6 @@
       "category": "Tiere",
       "defname": "PW_Kecleon",
       "price": -10
-    },
-    {
-      "abr": "ki-chip",
-      "category": "Bionisch",
-      "defname": "AIChip",
-      "price": 2133
-    },
-    {
-      "abr": "kiefer",
-      "category": "Natürlich",
-      "defname": "Jaw",
-      "price": 833
     },
     {
       "abr": "kingdra",
@@ -6283,12 +6709,6 @@
       "price": -10
     },
     {
-      "abr": "kotatsu",
-      "category": "Möbel",
-      "defname": "Erin_Kotatsu",
-      "price": 315
-    },
-    {
       "abr": "krabby",
       "category": "Tiere",
       "defname": "PW_Krabby",
@@ -6307,36 +6727,6 @@
       "price": -10
     },
     {
-      "abr": "kühlschrank",
-      "category": "Möbel",
-      "defname": "RimFridge_Refrigerator",
-      "price": 186
-    },
-    {
-      "abr": "künstlichenase",
-      "category": "Prothetisch",
-      "defname": "ArtificialNose",
-      "price": 330
-    },
-    {
-      "abr": "künstlicheniere",
-      "category": "Bionisch",
-      "defname": "SyntheticKidney",
-      "price": 1183
-    },
-    {
-      "abr": "künstlichesbecken",
-      "category": "Prothetisch",
-      "defname": "ArtificialPelvis",
-      "price": 475
-    },
-    {
-      "abr": "künstlichesschlüsselbein",
-      "category": "Prothetisch",
-      "defname": "ArtificialClavicle",
-      "price": 141
-    },
-    {
       "abr": "kyogre",
       "category": "Tiere",
       "defname": "PW_Kyogre",
@@ -6349,42 +6739,6 @@
       "price": -10
     },
     {
-      "abr": "lamp",
-      "category": "Möbel",
-      "defname": "RGK_lamp",
-      "price": 42
-    },
-    {
-      "abr": "lampe",
-      "category": "Möbel",
-      "defname": "RGK_lampE",
-      "price": 90
-    },
-    {
-      "abr": "lampe(white)",
-      "category": "Möbel",
-      "defname": "GL_lampE_White",
-      "price": 90
-    },
-    {
-      "abr": "lampm",
-      "category": "Möbel",
-      "defname": "RGK_LampM",
-      "price": 42
-    },
-    {
-      "abr": "lampm(white)",
-      "category": "Möbel",
-      "defname": "GL_LampM_White",
-      "price": 42
-    },
-    {
-      "abr": "lamp(white)",
-      "category": "Möbel",
-      "defname": "GL_lamp_White",
-      "price": 42
-    },
-    {
       "abr": "lanturn",
       "category": "Tiere",
       "defname": "PW_Lanturn",
@@ -6395,30 +6749,6 @@
       "category": "Tiere",
       "defname": "PW_Lapras",
       "price": -10
-    },
-    {
-      "abr": "laptop",
-      "category": "Möbel",
-      "defname": "ED_Laptop",
-      "price": 6
-    },
-    {
-      "abr": "largedoormat",
-      "category": "Möbel",
-      "defname": "LT_DoorMatBigLeather",
-      "price": 13
-    },
-    {
-      "abr": "largedoormat(orange)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatBigOrange",
-      "price": 13
-    },
-    {
-      "abr": "largedoormat(teal)",
-      "category": "Möbel",
-      "defname": "LT_DoorMatBigTeal",
-      "price": 13
     },
     {
       "abr": "larvitar",
@@ -6451,12 +6781,6 @@
       "price": -10
     },
     {
-      "abr": "leberersatz",
-      "category": "Prothetisch",
-      "defname": "SurrogateLiver",
-      "price": 583
-    },
-    {
       "abr": "ledian",
       "category": "Tiere",
       "defname": "PW_Ledian",
@@ -6475,12 +6799,6 @@
       "price": 40
     },
     {
-      "abr": "lichtrezeptor",
-      "category": "Prothetisch",
-      "defname": "LightReceptor",
-      "price": 508
-    },
-    {
       "abr": "lickilicky",
       "category": "Tiere",
       "defname": "PW_Lickilicky",
@@ -6493,12 +6811,6 @@
       "price": -10
     },
     {
-      "abr": "lilalavalampe",
-      "category": "Möbel",
-      "defname": "LavalampP",
-      "price": 66
-    },
-    {
       "abr": "lileep",
       "category": "Tiere",
       "defname": "PW_Lileep",
@@ -6509,12 +6821,6 @@
       "category": "Tiere",
       "defname": "PW_Linoone",
       "price": -10
-    },
-    {
-      "abr": "locker",
-      "category": "Möbel",
-      "defname": "GL_Locker",
-      "price": 284
     },
     {
       "abr": "lombre",
@@ -6539,12 +6845,6 @@
       "category": "Tiere",
       "defname": "PW_Loudred",
       "price": -10
-    },
-    {
-      "abr": "lowtable",
-      "category": "Möbel",
-      "defname": "Erin_LowTable",
-      "price": 50
     },
     {
       "abr": "lucario",
@@ -6575,12 +6875,6 @@
       "category": "Tiere",
       "defname": "PW_Lunatone",
       "price": -10
-    },
-    {
-      "abr": "lungenersatz",
-      "category": "Prothetisch",
-      "defname": "SurrogateLung",
-      "price": 583
     },
     {
       "abr": "luvdisc",
@@ -6625,58 +6919,10 @@
       "price": -10
     },
     {
-      "abr": "eltex-stab",
-      "category": "Nahkampfwaffen",
-      "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": 3333
-    },
-    {
-      "abr": "grenadierrüstung",
-      "category": "Rüstung",
-      "defname": "Apparel_ArmorMarineGrenadier",
-      "price": 3842
-    },
-    {
-      "abr": "kataphrakthelm",
-      "category": "Kopfbedeckung",
-      "defname": "Apparel_ArmorHelmetCataphract",
-      "price": 1242
-    },
-    {
-      "abr": "kataphraktrüstung",
-      "category": "Rüstung",
-      "defname": "Apparel_ArmorCataphract",
-      "price": 5200
-    },
-    {
-      "abr": "kurzbogen",
-      "category": "Fernkampfwaffen",
-      "defname": "Bow_Short",
-      "price": 74
-    },
-    {
-      "abr": "langbogen",
-      "category": "Fernkampfwaffen",
-      "defname": "Bow_Great",
-      "price": 174
-    },
-    {
       "abr": "magcargo",
       "category": "Tiere",
       "defname": "PW_Magcargo",
       "price": -10
-    },
-    {
-      "abr": "magen",
-      "category": "Natürlich",
-      "defname": "Stomach",
-      "price": 1667
-    },
-    {
-      "abr": "magenersatz",
-      "category": "Prothetisch",
-      "defname": "SurrogateStomach",
-      "price": 583
     },
     {
       "abr": "magikarp",
@@ -6727,12 +6973,6 @@
       "price": -10
     },
     {
-      "abr": "cobblestone",
-      "category": "Möbel",
-      "defname": "GloomyDeco_Stone",
-      "price": 36
-    },
-    {
       "abr": "manaphy",
       "category": "Tiere",
       "defname": "PW_Manaphy",
@@ -6743,12 +6983,6 @@
       "category": "Tiere",
       "defname": "PW_Manectric",
       "price": -10
-    },
-    {
-      "abr": "manger",
-      "category": "Möbel",
-      "defname": "RGK_Manger",
-      "price": 254
     },
     {
       "abr": "mankey",
@@ -6779,18 +7013,6 @@
       "category": "Tiere",
       "defname": "PW_Marill",
       "price": -10
-    },
-    {
-      "abr": "marinehelm",
-      "category": "Kopfbedeckung",
-      "defname": "Apparel_PowerArmorHelmet",
-      "price": 1058
-    },
-    {
-      "abr": "marinerüstung",
-      "category": "Rüstung",
-      "defname": "Apparel_PowerArmor",
-      "price": 3392
     },
     {
       "abr": "marowak",
@@ -6826,13 +7048,7 @@
       "abr": "maxpotion",
       "category": "Healing",
       "defname": "PW_MaxPotion",
-      "price": 200
-    },
-    {
-      "abr": "medicalanimalbed",
-      "category": "Möbel",
-      "defname": "SUN_MedicalAnimalBed",
-      "price": 358
+      "price": 500
     },
     {
       "abr": "medicham",
@@ -6845,12 +7061,6 @@
       "category": "Tiere",
       "defname": "PW_Meditite",
       "price": -10
-    },
-    {
-      "abr": "medizinischesrippen-implantat",
-      "category": "Bionisch",
-      "defname": "MedicalRib",
-      "price": 650
     },
     {
       "abr": "meganium",
@@ -6925,24 +7135,6 @@
       "price": -10
     },
     {
-      "abr": "minitable",
-      "category": "Möbel",
-      "defname": "RGK_MiniTableA",
-      "price": 88
-    },
-    {
-      "abr": "minitable",
-      "category": "Möbel",
-      "defname": "RGK_MiniTableB",
-      "price": 88
-    },
-    {
-      "abr": "mini-kühlschrank",
-      "category": "Möbel",
-      "defname": "RimFridge_SingleRefrigerator",
-      "price": 121
-    },
-    {
       "abr": "minun",
       "category": "Tiere",
       "defname": "PW_Minun",
@@ -6971,12 +7163,6 @@
       "category": "Tiere",
       "defname": "PW_Monferno",
       "price": -10
-    },
-    {
-      "abr": "monoschwert",
-      "category": "Nahkampfwaffen",
-      "defname": "MeleeWeapon_MonoSword",
-      "price": 3333
     },
     {
       "abr": "moonstone",
@@ -7021,18 +7207,6 @@
       "price": -10
     },
     {
-      "abr": "musclestimulator",
-      "category": "Archotech",
-      "defname": "MuscleStimulator",
-      "price": 4167
-    },
-    {
-      "abr": "nase",
-      "category": "Natürlich",
-      "defname": "Nose",
-      "price": 833
-    },
-    {
       "abr": "natu",
       "category": "Tiere",
       "defname": "PW_Natu",
@@ -7075,12 +7249,6 @@
       "price": -10
     },
     {
-      "abr": "nierenersatz",
-      "category": "Prothetisch",
-      "defname": "SurrogateKidney",
-      "price": 583
-    },
-    {
       "abr": "nincada",
       "category": "Tiere",
       "defname": "PW_Nincada",
@@ -7111,78 +7279,6 @@
       "price": -10
     },
     {
-      "abr": "noteblock(a5sharp)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveAs",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(a5)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveA",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(b5)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveB",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(c5sharp)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveCs",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(c5)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveC",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(d5sharp)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveDs",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(d5)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveD",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(e5)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveE",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(f5sharp)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveFs",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(f5)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveF",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(g5sharp)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveGs",
-      "price": 32
-    },
-    {
-      "abr": "noteblock(g5)",
-      "category": "Diverses",
-      "defname": "TRAHS_Noteblock_FiveG",
-      "price": 32
-    },
-    {
       "abr": "numel",
       "category": "Tiere",
       "defname": "PW_Numel",
@@ -7207,22 +7303,10 @@
       "price": -10
     },
     {
-      "abr": "ohr",
-      "category": "Natürlich",
-      "defname": "Ear",
-      "price": 833
-    },
-    {
-      "abr": "ohrenbinde",
-      "category": "Einfache Teile",
-      "defname": "EarBandage",
-      "price": 65
-    },
-    {
       "abr": "oldamber",
       "category": "Fossils",
       "defname": "PW_OldAmber",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "omanyte",
@@ -7243,24 +7327,6 @@
       "price": -10
     },
     {
-      "abr": "orbitalbombardierung-zielgerät",
-      "category": "Hilfsmittel",
-      "defname": "OrbitalTargeterBombardment",
-      "price": 2000
-    },
-    {
-      "abr": "orbitalenergiestrahl-zielgerät",
-      "category": "Hilfsmittel",
-      "defname": "OrbitalTargeterPowerBeam",
-      "price": 2000
-    },
-    {
-      "abr": "orbital-mech-cluster-zielgerät",
-      "category": "Hilfsmittel",
-      "defname": "OrbitalTargeterMechCluster",
-      "price": 2000
-    },
-    {
       "abr": "pachirisu",
       "category": "Tiere",
       "defname": "PW_Pachirisu",
@@ -7271,18 +7337,6 @@
       "category": "Tiere",
       "defname": "PW_Palkia",
       "price": -10
-    },
-    {
-      "abr": "paper",
-      "category": "Möbel",
-      "defname": "ED_Paper",
-      "price": 3
-    },
-    {
-      "abr": "papers",
-      "category": "Möbel",
-      "defname": "ED_Papers",
-      "price": 3
     },
     {
       "abr": "paras",
@@ -7309,30 +7363,6 @@
       "price": -10
     },
     {
-      "abr": "persona-monoschwert",
-      "category": "Persona-Waffen",
-      "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": 5000
-    },
-    {
-      "abr": "persona-plasmaschwert",
-      "category": "Persona-Waffen",
-      "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": 5000
-    },
-    {
-      "abr": "persona-zeushammer",
-      "category": "Persona-Waffen",
-      "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": 5000
-    },
-    {
-      "abr": "petbowl",
-      "category": "Möbel",
-      "defname": "ED_PetBowl",
-      "price": 34
-    },
-    {
       "abr": "phanpy",
       "category": "Tiere",
       "defname": "PW_Phanpy",
@@ -7343,12 +7373,6 @@
       "category": "Tiere",
       "defname": "PW_Phione",
       "price": -10
-    },
-    {
-      "abr": "phönixrüstung",
-      "category": "Rüstung",
-      "defname": "Apparel_ArmorCataphractPhoenix",
-      "price": 5800
     },
     {
       "abr": "pichu",
@@ -7381,28 +7405,10 @@
       "price": -10
     },
     {
-      "abr": "pileofbooks",
-      "category": "Möbel",
-      "defname": "ED_PileofBooks",
-      "price": 4
-    },
-    {
-      "abr": "pillow",
-      "category": "Möbel",
-      "defname": "ED_Pillow",
-      "price": 10
-    },
-    {
       "abr": "piloswine",
       "category": "Tiere",
       "defname": "PW_Piloswine",
       "price": -10
-    },
-    {
-      "abr": "pilum",
-      "category": "Fernkampfwaffen",
-      "defname": "Pila",
-      "price": 182
     },
     {
       "abr": "pineco",
@@ -7421,18 +7427,6 @@
       "category": "Tiere",
       "defname": "PW_Piplup",
       "price": -10
-    },
-    {
-      "abr": "plasmaschwert",
-      "category": "Nahkampfwaffen",
-      "defname": "MeleeWeapon_PlasmaSword",
-      "price": 3333
-    },
-    {
-      "abr": "plushie",
-      "category": "Möbel",
-      "defname": "ED_Plushie",
-      "price": 11
     },
     {
       "abr": "plusle",
@@ -8788,7 +8782,7 @@
       "abr": "potion",
       "category": "Healing",
       "defname": "PW_Potion",
-      "price": 50
+      "price": 250
     },
     {
       "abr": "powerarm",
@@ -8944,7 +8938,7 @@
       "abr": "rarecandy",
       "category": "Healing",
       "defname": "PW_RareCandy",
-      "price": 100
+      "price": 180
     },
     {
       "abr": "raticate",
@@ -9265,18 +9259,6 @@
       "price": -10
     },
     {
-      "abr": "simplebox",
-      "category": "Möbel",
-      "defname": "GloomyDeco_Box",
-      "price": 68
-    },
-    {
-      "abr": "simplebucket",
-      "category": "Möbel",
-      "defname": "GloomyDeco_Bucket",
-      "price": 68
-    },
-    {
       "abr": "simplechair",
       "category": "Möbel",
       "defname": "RGK_SimpleChair",
@@ -9529,12 +9511,6 @@
       "price": 583
     },
     {
-      "abr": "stump",
-      "category": "Möbel",
-      "defname": "GloomyDeco_Lumberjack",
-      "price": 68
-    },
-    {
       "abr": "stunky",
       "category": "Tiere",
       "defname": "PW_Stunky",
@@ -9751,12 +9727,6 @@
       "price": -10
     },
     {
-      "abr": "tool",
-      "category": "Möbel",
-      "defname": "GloomyDeco_Tool",
-      "price": 114
-    },
-    {
       "abr": "torchic",
       "category": "Tiere",
       "defname": "PW_Torchic",
@@ -9868,7 +9838,7 @@
       "abr": "upgrade",
       "category": "Other",
       "defname": "PW_Upgrade",
-      "price": 1500
+      "price": 683
     },
     {
       "abr": "ursaring",
@@ -10114,7 +10084,7 @@
       "abr": "wallsunlight",
       "category": "Möbel",
       "defname": "Lighting_MURWallSunLight",
-      "price": 32
+      "price": 16
     },
     {
       "abr": "walrein",
@@ -10309,5 +10279,5 @@
       "price": -10
     }
   ],
-  "total": 1718
+  "total": 1713
 }
