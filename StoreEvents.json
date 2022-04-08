@@ -291,11 +291,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -336,5 +331,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 67
+	"total": 66
 }
