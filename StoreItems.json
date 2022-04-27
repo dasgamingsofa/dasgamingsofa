@@ -742,73 +742,73 @@
       "abr": "fähigkeitstrainer(bergbau)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Mining",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(fernkampf)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Shooting",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(geistig)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Intellectual",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(handwerk)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Crafting",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(kochen)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Cooking",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(konstruktion)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Construction",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(kunst)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Artistic",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(medizin)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Medicine",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(nahkampf)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Melee",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(pflanzen)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Plants",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(sozial)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Social",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "fähigkeitstrainer(tiere)",
       "category": "Fähigkeitstrainer",
       "defname": "Neurotrainer_Animals",
-      "price": 1250
+      "price": 5000
     },
     {
       "abr": "faultierfleisch",
