@@ -218,7 +218,7 @@
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
@@ -233,7 +233,7 @@
 	{
 		"abr": "mechanoidraid",
 		"price": 3500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -260,24 +260,10 @@
 		"price": 1000,
 		"karmatype": "Bad"
 	},
-	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
+	
 	{
 		"abr": "levelskill",
 		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "trait",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "removetrait",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -295,16 +281,8 @@
 		"price": 450,
 		"karmatype": "Good"
 	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "settraits",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
+	
+	
 	{
 		"abr": "smite",
 		"price": 2500,
