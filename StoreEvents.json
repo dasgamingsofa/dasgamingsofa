@@ -247,17 +247,17 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1,
+		"price": 2999,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 2222,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 3333,
 		"karmatype": "Good"
 	},
 	{
@@ -270,16 +270,8 @@
 		"price": 300,
 		"karmatype": "Good"
 	},
-	{
-		"abr": "surgery",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "settraits",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
+	
+	
 	{
 		"abr": "smite",
 		"price": 2500,
