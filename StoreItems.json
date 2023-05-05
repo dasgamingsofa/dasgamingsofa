@@ -6972,6 +6972,50 @@
       "defname": "Meat_VAECaves_Wyrm",
       "price": 3
     },
+     {
+      "abr": "pentaroyalbed",
+      "category": "Möbel",
+      "defname": "PentaRoyalBed",
+      "price": 2350
+    },
+    {
+      "abr": "quadrabed",
+      "category": "Möbel",
+      "defname": "QuadBed",
+      "price": 567
+    },
+    {
+      "abr": "quadrabedroll",
+      "category": "Möbel",
+      "defname": "BedrollQuad",
+      "price": 600
+    },
+    {
+      "abr": "quadraroyalbed",
+      "category": "Möbel",
+      "defname": "QuadRoyalBed",
+      "price": 1750
+    },
+    {
+      "abr": "triplebed",
+      "category": "Möbel",
+      "defname": "TripleBed",
+      "price": 433
+    },
+    {
+      "abr": "triplebedroll",
+      "category": "Möbel",
+      "defname": "BedrollTriple",
+      "price": 442
+    },
+    {
+      "abr": "tripleroyalbed",
+      "category": "Möbel",
+      "defname": "TripleRoyalBed",
+      "price": 1050
+    }
+    
+    
     {
       "abr": "zebra",
       "category": "Tiere",
