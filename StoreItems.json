@@ -7013,7 +7013,7 @@
       "category": "Möbel",
       "defname": "TripleRoyalBed",
       "price": 1050
-    }
+    },
     
     
     {
@@ -7021,7 +7021,7 @@
       "category": "Tiere",
       "defname": "AEXP_Zebra",
       "price": 1000
-    }
+    },
   ],
   "total": 1163
 }
