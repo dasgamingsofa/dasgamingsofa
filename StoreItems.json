@@ -6972,7 +6972,13 @@
       "defname": "Meat_VAECaves_Wyrm",
       "price": 3
     },
-     {
+    {
+      "abr": "zebra",
+      "category": "Tiere",
+      "defname": "AEXP_Zebra",
+      "price": 1000
+    },
+    {
       "abr": "pentaroyalbed",
       "category": "Möbel",
       "defname": "PentaRoyalBed",
@@ -7013,15 +7019,7 @@
       "category": "Möbel",
       "defname": "TripleRoyalBed",
       "price": 1050
-    },
-    
-    
-    {
-      "abr": "zebra",
-      "category": "Tiere",
-      "defname": "AEXP_Zebra",
-      "price": 1000
-    },
+    }
   ],
-  "total": 1163
+  "total": 1170
 }
