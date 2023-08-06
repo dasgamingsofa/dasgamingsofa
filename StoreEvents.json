@@ -1,80 +1,11 @@
 {
 	"incitems" : [
-	{
-		"abr": "tornado",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "drythunderstorm",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shortcircuit",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "meteor",
-		"price": 100,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "psychicdrone",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "rarethrumbos",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "raid",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
+
 	{
 		"abr": "pawn",
-		"price": 1,
+		"price": 1000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 15
+	"total": 1
 }
